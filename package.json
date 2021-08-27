@@ -1,0 +1,51 @@
+{
+  "name": "caneledisa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "caneledisa",
+  "author": "nicolas",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "bulma": "^0.9.3",
+    "gatsby": "^3.12.1",
+    "gatsby-image": "^3.11.0",
+    "gatsby-plugin-gatsby-cloud": "^3.0.0",
+    "gatsby-plugin-manifest": "^3.12.0",
+    "gatsby-plugin-mdx": "^2.12.0",
+    "gatsby-plugin-netlify": "^3.12.0",
+    "gatsby-plugin-netlify-cms": "^4.2.5",
+    "gatsby-plugin-purgecss": "^6.0.2",
+    "gatsby-plugin-react-helmet": "^4.12.0",
+    "gatsby-plugin-sass": "^4.12.0",
+    "gatsby-plugin-sharp": "^3.12.0",
+    "gatsby-plugin-sitemap": "^4.8.0",
+    "gatsby-remark-copy-linked-files": "^4.9.0",
+    "gatsby-remark-images": "^5.9.0",
+    "gatsby-remark-relative-images": "^0.3.0",
+    "gatsby-source-filesystem": "^3.12.0",
+    "gatsby-transformer-remark": "^4.9.0",
+    "gatsby-transformer-sharp": "^3.12.0",
+    "lodash": "^4.17.21",
+    "lodash-webpack-plugin": "^0.11.6",
+    "netlify": "^8.0.0",
+    "netlify-cms": "^2.10.159",
+    "netlify-cms-app": "^2.15.39",
+    "node-sass": "^6.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "uuid": "^3.4.0"
+  }
+}
