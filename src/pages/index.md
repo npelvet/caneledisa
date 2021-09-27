@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Les canelés d'Isa !!
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Les canelés d'Isa !!
+subheading: Fabrication et vente direct de canelés et financier
 mainpitch:
-  title: Why Kaldi
+  title: Pourquoi choisir mes canelés 
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Je fais mes canelés depuis des années pour les amis et la famille. Depuis mon départ récent à la retraite je me suis lancé un nouveau défi, devenir artisante et commerçante.
+    Mes canelés sont toujours frais et fait avec AMOUR et laisse un petit goût de "reviens-y".
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
