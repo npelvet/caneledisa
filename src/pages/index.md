@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Les canelés d'Isa !!
-image: /img/home-jumbotron.jpg
+image: /img/caneleFinanciePres.jpg
 heading: Les canelés d'Isa !!
 subheading: Fabrication et vente direct de canelés et financier
 mainpitch:
